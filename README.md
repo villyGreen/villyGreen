@@ -23,3 +23,7 @@
 - :rocket: Always ready to collaborate
 - :dart: Life Hack: "In case of fire: "Git add - Git commit - Git push" 
 - :zap: I'm student a programming school21
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+ [![Instagram Badge](https://img.shields.io/badge/-@vadxx_av-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https:/https://www.instagram.com/vadxx_av/)](https://www.instagram.com/vadxx_av/)
