@@ -9,6 +9,7 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
  <a href="https://cocoapods.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-128/cocoapods-283067.png" alt="cocoaPods" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://i.ibb.co/pxsgTR6/12-121527-docker-logo-png-transparent-png-download-removebg-preview.png" alt="cocoaPods" width="40" height="40"/> </a>
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/2267px-Sketch_Logo.svg.png" alt="sketch" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
