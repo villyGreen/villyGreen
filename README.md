@@ -23,7 +23,6 @@
 - :hourglass_flowing_sand: I study every day
 - :rocket: Always ready to collaborate
 - :dart: Life Hack: "In case of fire: "Git add - Git commit - Git push" 
-- :zap: I'm student a programming school21
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
