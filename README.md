@@ -3,7 +3,7 @@
   <br>Hello everyone<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Vadim, Ios developer <br>
   <br>
-    <img src="https://draftss.com/blog/wp-content/uploads/2020/10/unnamed-1.gif" alt="Coder GIF" width="500">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0587f251249217.58e7079c0894c.gif" alt="Coder GIF" width="800">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
