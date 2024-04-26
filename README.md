@@ -17,12 +17,6 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :hourglass_flowing_sand: I study every day
-- :rocket: Always ready to collaborate
-- :dart: Life Hack: "In case of fire: "Git add - Git commit - Git push" 
-
 <h2 align="left">:heart: Let's get connected:</h2>
 
  [![Instagram Badge](https://img.shields.io/badge/-@vadxx_av-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https:/https://www.instagram.com/vadxx_av/)](https://www.instagram.com/vadxx_av/)
